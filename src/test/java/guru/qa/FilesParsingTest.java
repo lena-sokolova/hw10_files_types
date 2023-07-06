@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
-public class FilesTest {
+public class FilesParsingTest {
 
     @Test
     @DisplayName("PDF: Тест проверки чтения и содержимого PDF файла из архива")
