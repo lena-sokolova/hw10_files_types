@@ -4,7 +4,11 @@
   "gender": "Female",
   "Date of Birth": "07.07.1989",
   "subjects": "English",
-  "hobbies": ["Sport", "Traveling", "Cooking"],
+  "hobbies": [
+    "Sport",
+    "Traveling",
+    "Cooking"
+  ],
   "Current Address": "Address",
   "offline": true
 }

@@ -38,7 +38,7 @@ public class StudentModel {
         return subjects;
     }
 
-    private ArrayList <String> hobbies;
+    private ArrayList<String> hobbies;
 
     public ArrayList getHobbies() {
         return hobbies;
